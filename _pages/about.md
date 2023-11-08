@@ -38,6 +38,14 @@ Beyond my coding adventures, I have a penchant for continuous learning and perso
 <br />
 
 ## 📖 What I learned
+**📜General**
+<br>
+
+I explored a wide range of topics in my programming journey, including cybersecurity and threat analysis.
+I gained hands-on experience in web development using React and WordPress, as well as application development using Visual Studio with C# and JavaScript.
+I also delved into mobile app development, using Kotlin in Android Studio. These experiences have provided me with a well-rounded understanding of the tech landscape.
+
+
 **👥Collaborative work👥**
 <br>
 
@@ -45,19 +53,13 @@ During my programming studies at school, I learned the importance of effective c
 
 We also adopted the Scrum methodology for organization and communication. Handling deadlines and conflicts through open communication taught us the value of adaptability and teamwork in achieving project success.
 
+
 **🔎Code analysis**
 <br>
 
 During my programming studies at John Abbott, a government-mandated game programming course, akin to CS50's Introduction to Game Development, offered an immersive journey into code analysis. We dissected and understood the core components of game development, including sprite creation, playstate mechanics, and various game engines like matter.js.
 
 Beyond analysis, we were tasked with implementing new features, such as introducing unique objects, utilizing tweening for smooth animations, and adjusting gravity to enhance game dynamics. This experience not only sharpened our analytical skills but also nurtured our innovative capacity in enriching existing game codebases.
-
-*📜General**
-<br>
-
-I explored a wide range of topics in my programming journey, including cybersecurity and threat analysis.
-I gained hands-on experience in web development using React and WordPress, as well as application development using Visual Studio with C# and JavaScript.
-I also delved into mobile app development, using Kotlin in Android Studio. These experiences have provided me with a well-rounded understanding of the tech landscape.
 
 **Zento Sushi -(2022 - 2023)**
 <br>
