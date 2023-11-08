@@ -15,12 +15,11 @@ I was unsure about my path until I discover what coding is and the wonder of mak
 
 Beyond my coding adventures, I have a penchant for continuous learning and personal growth. Currently, I'm immersing myself in learning the guitar🎸, mastering the art of the Japanese language🗾, and staying fit with regular workouts💪. Life, for me, is all about taking it easy, finding relaxation in the journey, and savoring every moment along the way🚩.
 
-
 ## 🎓 Education
 - DEC, Computer Science (420.B0) | John Abbott College (2024)								       		
 - DES, High school diploma	     | École Saint-george (2014 - 2019)	 			        	
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <a href="https://www.java.com/en/"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
