@@ -37,7 +37,7 @@ Beyond my coding adventures, I have a penchant for continuous learning and perso
 <a href="https://www.jetbrains.com/idea/"><img align="left" alt="intellij" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <br />
 
-## What I learned
+## 📖 What I learned
 **👥Collaborative work👥**
 <br>
 
