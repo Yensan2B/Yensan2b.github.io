@@ -1,7 +1,7 @@
 ---
-title: "Quiz Maker"
+title: "Quiz Maker <-"
 excerpt: "This is a project with the goal of applying all the knowledge I've gained during the first, second, and third semesters 
-of my computer science studies at John Abbott College.<br/><img src='/images/Quiz.png'>"
+of my computer science studies at John Abbott College.<br><img src='/images/Quiz.png'>"
 collection: portfolio
 ---
 **Quiz Maker**
