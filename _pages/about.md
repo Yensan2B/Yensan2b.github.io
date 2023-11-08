@@ -62,7 +62,6 @@ During my programming studies at John Abbott, a government-mandated game program
 Beyond analysis, we were tasked with implementing new features, such as introducing unique objects, utilizing tweening for smooth animations, and adjusting gravity to enhance game dynamics. This experience not only sharpened our analytical skills but also nurtured our innovative capacity in enriching existing game codebases.
 
 ## 🔧Skill
-<br>
 - Adapts well to change
 - Highly organized and professional in approach
 - Creative decision-maker
