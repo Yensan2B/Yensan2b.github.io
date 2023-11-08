@@ -45,6 +45,20 @@ During my programming studies at school, I learned the importance of effective c
 
 We also adopted the Scrum methodology for organization and communication. Handling deadlines and conflicts through open communication taught us the value of adaptability and teamwork in achieving project success.
 
+**🔎Code analysis**
+<br>
+
+During my programming studies at John Abbott, a government-mandated game programming course, akin to CS50's Introduction to Game Development, offered an immersive journey into code analysis. We dissected and understood the core components of game development, including sprite creation, playstate mechanics, and various game engines like matter.js.
+
+Beyond analysis, we were tasked with implementing new features, such as introducing unique objects, utilizing tweening for smooth animations, and adjusting gravity to enhance game dynamics. This experience not only sharpened our analytical skills but also nurtured our innovative capacity in enriching existing game codebases.
+
+*📜General**
+<br>
+
+During my programming studies at John Abbott, a government-mandated game programming course, akin to CS50's Introduction to Game Development, offered an immersive journey into code analysis. We dissected and understood the core components of game development, including sprite creation, playstate mechanics, and various game engines like matter.js.
+
+Beyond analysis, we were tasked with implementing new features, such as introducing unique objects, utilizing tweening for smooth animations, and adjusting gravity to enhance game dynamics. This experience not only sharpened our analytical skills but also nurtured our innovative capacity in enriching existing game codebases.
+
 **Zento Sushi -(2022 - 2023)**
 <br>
 *475 Grand Boulevard, local 8, L'Île-Perrot, QC J7V 4X4*
