@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Does it work?<br/><img src='/images/500x300.png'>"
+title: "Animal's app <- See More Details"
+excerpt: "The Animal App is a small application I created to familiarize myself with Kotlin. This application will serve as the foundation for a larger project that I am currently working on.<br><img src='/images/Animal.png'>"
 collection: portfolio
 ---
+**Animal App**
+<br>
+*School-work, Krotlin, android Studio*
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The Animal App is a small application I created to familiarize myself with Kotlin. This application will serve as the foundation for a larger project that I am currently working on.
+
+<br>What I learned: Krotlin, Jetpack Compose, Android Studio
+<br><br>
+![Animal](/images/Animal.png)
+<br>[See Project](https://github.com/Yensan2B/Animal_app)
