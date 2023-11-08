@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## 🍂 About me
 I'm full-stack web developer who studied at John Abbott College. I love coding in C# and JavaScript, and I'm very interested in the field of AI👽 and game development🎮.
 
@@ -38,11 +37,13 @@ Beyond my coding adventures, I have a penchant for continuous learning and perso
 <a href="https://www.jetbrains.com/idea/"><img align="left" alt="intellij" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <br />
 
-## Work Experience
-**Ongles Memoires -2023**
+## What I learned
+**👥Collaborative work👥**
 <br>
-*475 Grand Boulevard, local 8, L'Île-Perrot, QC J7V 4X4*
-- Receptionist : Maintaning / Updating Website, Manage appointment, Clean the salon
+
+During my programming studies at school, I learned the importance of effective collaboration. Using Git and branching allowed me and my classmates to work simultaneously on the same project, minimizing conflicts.
+
+We also adopted the Scrum methodology for organization and communication. Handling deadlines and conflicts through open communication taught us the value of adaptability and teamwork in achieving project success.
 
 **Zento Sushi -(2022 - 2023)**
 <br>
