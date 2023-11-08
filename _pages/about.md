@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi"
+title: "👋 Welcome to my page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-# Programmer
+## About me
+I'm full-stack web developer who studied at John Abbott College. I love coding in C# and JavaScript, and I'm very interested in the field of AI👽 and game development🎮.
+
+I was unsure about my path until I discover what coding is and the wonder of making applications come to life. This newfound fascination led me to pursue a degree in computer science at John Abbott College🎓. My ultimate aspiration is to delve into the exciting realm of artificial intelligence.
+
+Beyond my coding adventures, I have a penchant for continuous learning and personal growth. Currently, I'm immersing myself in learning the guitar🎸, mastering the art of the Japanese language🗾, and staying fit with regular workouts💪. Life, for me, is all about taking it easy, finding relaxation in the journey, and savoring every moment along the way🚩.
+
 
 #### Technical Skills: Python, SQL, HTML, CSS, React, Node, jQuery, C#, Java, JavaScript, Krotlin, Bash
 
